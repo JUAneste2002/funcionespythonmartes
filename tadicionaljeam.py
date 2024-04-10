@@ -14,6 +14,6 @@ def sumarNumeros(numeroUno,numeroDOS):
     return sumatoria
 numeroUno=5
 numeroDOS=20 
-numeroTres=50
+numeroTres=500
 resultado=sumarNumeros(10,20) 
 print(f"la suma es:{resultado}")
